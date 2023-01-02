@@ -1,0 +1,13 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.Biletsatis.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\bin\Debug\BiletSatis.exe.config
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\bin\Debug\BiletSatis.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\bin\Debug\BiletSatis.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\obj\Debug\BiletSatis.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\bin\Debug\Database1.mdf
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\Projeler\Biletsatis\BiletSatis\bin\Debug\Database1_log.ldf
